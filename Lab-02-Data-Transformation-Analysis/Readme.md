@@ -1,45 +1,60 @@
-# Data Transformation and Retail Sales Analysis
 
-Business Problem Statement
+# Northwind Sales Performance & Data Transformation
+
+## Project Overview
+This project demonstrates data preparation, transformation and business intelligence reporting using Microsoft Excel.
+
+It uses Northwind sales data to analyze sales performance, product categories, monthly trends, order volumes and discount patterns.
+
+**
+Business Problem Statement**
 
 Northwind Company wants to perform Data Analytics on its raw sales
 data to identify-
 
 Which products categories are having Best and Worst sales Figures?
 
-## Project Overview
-This project focuses on preparing, transforming and analyzing retail sales data using Microsoft Excel.
-
-The project demonstrates how raw business data can be transformed into structured information for reporting and business decision-making.
-
 ## Tools Used
 - Microsoft Excel
-- Data Cleaning
-- Data Transformation
+- Data Cleaning and Transformation
 - Pivot Tables
-- Data Analysis
+- Excel Charts
+- Business Analytics
 - Dashboard Development
 
-## Key Activities
-- Cleaning and organizing retail order data
-- Transforming sales information
-- Creating calculated columns
-- Analyzing product categories
-- Preparing monthly sales summaries
-- Building pivot tables and business reports
+## Project Components
 
-## Dashboard Features
-- Monthly Sales Analysis
-- Product Category Performance
-- Sales Trends
-- Order Analysis
-- Interactive Business Reporting
+### 1. Data Transformation
+Workbook: `BAI_Practical2.1_Completed.xlsx`
 
-## Business Value
-Helps businesses understand sales trends, identify high-performing product categories and make informed decisions using structured sales data.
+Demonstrates data preparation, cleaning and transformation techniques.
+
+### 2. Sales Performance Dashboard
+Workbook: `BAI_Practical2_Completed.xlsx`
+
+An interactive Northwind Sales Performance Dashboard featuring:
+
+- Total Sales
+- Total Orders
+- Total Quantity
+- Average Order Value
+- Monthly Sales Trends
+- Sales by Category
+- Top 10 Selling Products
+- Monthly Order Analysis
+- Discount Analysis
+
+## Business Insights
+The dashboard helps identify:
+- Best-performing product categories
+- Monthly sales patterns
+- High-selling products
+- Order volume trends
+- Discount distribution
 
 ## Project Files
-`Dashboard-Files/BAI_Practical2.1_Completed.xlsx`
+- `Dashboard-Files/` – Excel workbooks
+- `Screenshots/` – Dashboard preview
 
 ## How to View
 Download the Excel workbook and open it using Microsoft Excel.
@@ -48,4 +63,4 @@ Download the Excel workbook and open it using Microsoft Excel.
 Srushti Lohakare
 
 ## Domain
-Business Intelligence | Data Analytics | Retail Analytics
+Business Intelligence | Business Analytics | Sales Analytics
