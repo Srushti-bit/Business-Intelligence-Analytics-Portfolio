@@ -1,0 +1,44 @@
+# Data Transformation and Retail Sales Analysis
+
+## Project Overview
+This project focuses on preparing, transforming and analyzing retail sales data using Microsoft Excel.
+
+The project demonstrates how raw business data can be transformed into structured information for reporting and business decision-making.
+
+## Tools Used
+- Microsoft Excel
+- Data Cleaning
+- Data Transformation
+- Pivot Tables
+- Data Analysis
+- Dashboard Development
+
+## Key Activities
+- Cleaning and organizing retail order data
+- Transforming sales information
+- Creating calculated columns
+- Analyzing product categories
+- Preparing monthly sales summaries
+- Building pivot tables and business reports
+
+## Dashboard Features
+- Monthly Sales Analysis
+- Product Category Performance
+- Sales Trends
+- Order Analysis
+- Interactive Business Reporting
+
+## Business Value
+Helps businesses understand sales trends, identify high-performing product categories and make informed decisions using structured sales data.
+
+## Project Files
+`Dashboard-Files/BAI_Practical2.1_Completed.xlsx`
+
+## How to View
+Download the Excel workbook and open it using Microsoft Excel.
+
+## Author
+Srushti Lohakare
+
+## Domain
+Business Intelligence | Data Analytics | Retail Analytics
